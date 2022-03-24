@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @D-Whipp
-- 👀 I’m interested in Coca-Cola, hiking, JRPG's, portable games, horse shoes, corn hole, Football, and Coding!
-- 🌱 I’m currently learning Full Stack Web Development at University of Arizona's Coding Bootcamp.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name's David.
+- 👀 I have a strong desire to learn Programming and further my career!
+- 🌱 I’m a graduate of University of Arizona's Coding Bootcamp where I learned Full Stack Web Development.
 
 <!---
 D-Whipp/D-Whipp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
