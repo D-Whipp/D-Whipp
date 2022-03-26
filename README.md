@@ -1,4 +1,5 @@
 - 👋 Hi, my name's David.
+- Email: dwhipp88@gmail.com
 - 👀 I have a strong desire to learn Programming and further my career!
 - 🌱 I’m a graduate of University of Arizona's Coding Bootcamp where I learned Full Stack Web Development.
 
