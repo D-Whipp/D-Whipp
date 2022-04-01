@@ -1,4 +1,5 @@
 - Hello, my name's [David](https://www.linkedin.com/in/david-w-079841213/).
+- [LinkedIn](https://www.linkedin.com/in/david-w-079841213/)
 - Email: dwhipp88@gmail.com
 - I have a strong desire to learn Programming and further my career!
 - I earned a [certificate](https://arizona.badgr.com/public/assertions/gKrNffytTUe7WQTfPe3A7A) in Full Stack Web Development from the University of Arizona's Coding Bootcamp and I have an Associate's Degree in Applied Science that I earned from my local community college. 
