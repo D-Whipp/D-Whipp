@@ -4,7 +4,7 @@
 - Email: dwhipp88@gmail.com
 - I earned a [certificate](https://arizona.badgr.com/public/assertions/gKrNffytTUe7WQTfPe3A7A) in Full Stack Web Development from the University of Arizona's Coding Bootcamp and I have an Associate's Degree in Applied Science that I earned from my local community college. 
 - Aspiring Web Developer with knowledge of and experience using These Front-End Technologies:
-  - HTML (HTML5), CSS, JavaScript, Bootstrap, JQuery, React,
+  - HTML5, CSS3, JavaScript, Bootstrap, JQuery, React,
 - And these Back-End Technologies:
   - JSON, Express.js, Node.js, MySQL, MongoDB, 
 - Web Development Paradigms:
