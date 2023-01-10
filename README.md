@@ -9,6 +9,9 @@ I am in the midst of studying and looking for another platform to host my apps.
 I'll have my apps migrated to another service soon.
 Thank you for understanding.
 
+*** UPDATE ***
+Finished a project. Working on deployment.
+
 Sincerely, 
 David.
 
