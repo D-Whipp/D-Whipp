@@ -12,6 +12,10 @@ Thank you for understanding.
 *** UPDATE ***
 Finished a project. Working on deployment.
 
+*** UPDATE *** 
+After researching Heroku alternative deployments I've settled on a technique I found on [Youtube](https://www.youtube.com/watch?v=l1CYFQ1F9N8). \
+I'm waiting for an email from Adaptable. For now I've done everything I can do. I'll post once I get the email for beta access.
+
 Sincerely, 
 David.
 
