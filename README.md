@@ -22,6 +22,10 @@ Tried a few services (Render, Adaptable, Railway). Builds keep failing. Not sure
 *** UPDATE ***
 I've successfully deployed the backend!
 
+*** UPDATE ***
+I've successfully deployed the frontend!
+The [Site](https://startling-sorbet-ade77f.netlify.app/) has breaking errors, I'll provide the final update once I fix those.
+
 Sincerely, 
 David.
 
