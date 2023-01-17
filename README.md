@@ -19,6 +19,9 @@ I'm waiting for an email from Adaptable. For now I've done everything I can do. 
 *** UPDATE ***
 Tried a few services (Render, Adaptable, Railway). Builds keep failing. Not sure why. I'll keep at it.
 
+*** UPDATE ***
+I've successfully deployed the backend!
+
 Sincerely, 
 David.
 
