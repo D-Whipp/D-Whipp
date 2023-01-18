@@ -26,6 +26,11 @@ I've successfully deployed the backend!
 I've successfully deployed the frontend!
 The [Site](https://startling-sorbet-ade77f.netlify.app/) has breaking errors, I'll provide the final update once I fix those.
 
+*** UPDATE ***
+I've updated the app and switched the db connection to MY mongodb. There's a bug on the frontend causing a *page not found* error.
+This error occurs because Netlify does not support React Router out of the box. Luckily there's a simple fix. The [fix](https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/) isn't working for me.
+I'll continue working on the error and post here once I'm done.
+
 Sincerely, 
 David.
 
