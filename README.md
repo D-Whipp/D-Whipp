@@ -31,6 +31,9 @@ I've updated the app and switched the db connection to MY mongodb. There's a bug
 This error occurs because Netlify does not support React Router out of the box. Luckily there's a simple fix. The [fix](https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/) isn't working for me.
 I'll continue working on the error and post here once I'm done.
 
+*** UPDATE ***
+Fixed the routes issue I was having before by adding the netlify.toml file. Now there's a 'cannot read properties of undefined'. More errors to fix but I'm one step closer.
+
 Sincerely, 
 David.
 
