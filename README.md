@@ -34,7 +34,10 @@ I'll continue working on the error and post here once I'm done.
 *** UPDATE ***
 Fixed the routes issue I was having before by adding the netlify.toml file. Now there's a 'cannot read properties of undefined'. More errors to fix but I'm one step closer.
 
-Sincerely, 
+*** UPDATE ***
+Seems Reducers went rogue on the backend. Everything still works fine locally but the deployment 'cannot find a case for that reducer'.  
+
+Regards, 
 David.
 
 - [LinkedIn](https://www.linkedin.com/in/david-w-079841213/)
