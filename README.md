@@ -35,7 +35,7 @@ I'll continue working on the error and post here once I'm done.
 Fixed the routes issue I was having before by adding the netlify.toml file. Now there's a 'cannot read properties of undefined'. More errors to fix but I'm one step closer.
 
 *** UPDATE ***
-Seems Reducers went rogue on the backend. Everything still works fine locally but the deployment 'NOT TYPE OF CASE IN REDUCER'. The credentials are correct and I'm seeing expected behavior when I misspell the email or enter an incorrect password. It's when the correct credentials are entered that I see the error... 
+Seems Reducers went rogue on the backend. Everything still works fine locally but the deployment 'NOT TYPE OF CASE IN REDUCER'. The credentials are correct and I'm seeing expected behavior when I misspell the email or enter an incorrect password. It's when the correct credentials are entered that I see the error... server error 500.
 
 Regards, 
 David.
