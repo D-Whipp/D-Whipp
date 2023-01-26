@@ -38,7 +38,7 @@ Fixed the routes issue I was having before by adding the netlify.toml file. Now 
 Seems Reducers went rogue. Not sure if this is a frontend issue or a backend issue. I suspent my frontend is having trouble talking to the backend. Everything still works fine locally but the deployment runs into a few issues. An error called: 'NOT TYPE OF CASE IN REDUCER' and a server error of 500 show up when trying to register or sign up. The credentials are correct and I'm seeing expected behavior when I misspell the email or enter an incorrect password. It's when the correct credentials are entered that I see the errors.
 
 *** UPDATE ***
-I've gone through the logs on Adaptable's website (it's where I deployed my backend) and I've gone through the logs on Netlify (where I deployed my frontend). Correcting ALL the errors I saw in the logs. I've included more env variables in my deployment. I've updated my cors. I've swapped databases to see if that was the issue. I got the app to post a new user but that's as far as it goes. The login functionality and everything after that doesn't work. My routes are returning a 500 or 401 error. 
+I've gone through the logs on Adaptable's website (it's where I deployed my backend) and I've gone through the logs on Netlify (where I deployed my frontend). Correcting ALL the errors I saw in the logs. I've included more env variables in my deployment. I've updated my cors. I've swapped databases to see if that was the issue. I got the app to post a new user but that's as far as it goes. The login functionality and everything after that doesn't work. My routes are returning a 500 or 401 error. I've also made sure my mongodb network access was setup correctly (whitelisted).
 
 Regards, 
 David.
