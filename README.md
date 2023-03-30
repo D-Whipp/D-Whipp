@@ -12,6 +12,8 @@ Thank you for understanding.
 Regards, 
 David.
 
+Note: Today I re-watched lectures pertaining to React-Redux theory, store setup, actions setup, and Selectors setup. My focus was taking the time to fully understand what is going on in a conceptual level. No code commits today.
+
 - [LinkedIn](https://www.linkedin.com/in/david-w-079841213/)
 - Email: dwhipp88@gmail.com
 - I earned a [certificate](https://arizona.badgr.com/public/assertions/gKrNffytTUe7WQTfPe3A7A) in Full Stack Web Development from the University of Arizona's Coding Bootcamp and I have an Associate's Degree in Applied Science that I earned from my local community college. 
