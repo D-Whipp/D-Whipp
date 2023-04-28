@@ -14,7 +14,7 @@ David.
 
 - [LinkedIn](https://www.linkedin.com/in/david-w-079841213/)
 - Email: dwhipp88@gmail.com
-- I earned a [certificate](https://arizona.badgr.com/public/assertions/gKrNffytTUe7WQTfPe3A7A) in Full Stack Web Development from the University of Arizona's Coding Bootcamp and I have an Associate's Degree in Applied Science that I earned from my local community college. 
+- I earned a certificate in Full Stack Web Development from the University of Arizona's Coding Bootcamp and I have an Associate's Degree in Applied Science that I earned from my local community college. 
 - Aspiring Web Developer with knowledge of and experience using These Front-End Technologies:
   - HTML5, CSS3, JavaScript, Bootstrap, JQuery, React,
 - And these Back-End Technologies:
