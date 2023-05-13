@@ -1,17 +1,6 @@
 - Hello, my name's [David](https://www.linkedin.com/in/david-w-079841213/).
 - I have a strong desire to learn Programming and further my career!
 
-
-*** IMPORTANT ***
-A lot of my apps, including my portfolio, used Heroku's free hosting.
-As of the 28th of November 2022 Heroku no longer supports free hosting.
-I am in the midst of studying and looking for another platform to host my apps.
-I'll have my apps migrated to another service soon.
-Thank you for understanding.
-
-Regards, 
-David.
-
 - [LinkedIn](https://www.linkedin.com/in/david-w-079841213/)
 - Email: dwhipp88@gmail.com
 - I earned a certificate in Full Stack Web Development from the University of Arizona's Coding Bootcamp and I have an Associate's Degree in Applied Science that I earned from my local community college. 
