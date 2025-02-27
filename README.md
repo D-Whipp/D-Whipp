@@ -2,6 +2,7 @@
 - [Portfolio](https://splendid-ganache-f82581.netlify.app/)
 - [Resume](https://docs.google.com/document/d/1Jy9tSvL4Vz3kQSIqHS7sitXvs6f2Jhyd17FMgox3Qpo/edit?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/david-w-079841213/)
+- [Certificate](https://www.credly.com/badges/39d6e296-4e33-46b5-9f74-2d47b65b4ed3/public_url)
 - Email: dwhipp88@gmail.com
 - I earned a certificate in Full Stack Web Development from the University of Arizona's Coding Bootcamp and I have an Associate's Degree in Applied Science that I earned from my local community college. 
 - Aspiring Web Developer with knowledge of and experience using These Front-End Technologies:
